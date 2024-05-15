@@ -86,5 +86,3 @@ This project uses a dataset from Beer Advocate, available on Kaggle. Presentatio
 **Explanation**: The credits section acknowledges the sources of data and visual assets used in the project, giving proper credit to the creators and contributors.
 
 ---
-
-Feel free to further modify or expand this README to better suit your project's specifics and your preferences!

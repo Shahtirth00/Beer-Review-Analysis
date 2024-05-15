@@ -1,9 +1,7 @@
-Certainly! Here's an updated README file with brief explanations for each point:
 
----
 
 # Brewed Awakening - Beer Reviews Analysis
-
+---
 ## Introduction
 
 Welcome to the **Brewed Awakening** project! This project analyzes a comprehensive dataset of beer reviews from Beer Advocate. The dataset includes 1.5 million observations from 1996 to 2012, covering 13 different features. The goal is to uncover insights into how various beer attributes affect their reception by consumers and identify factors contributing to the success or failure of beer brands.

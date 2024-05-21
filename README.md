@@ -23,6 +23,8 @@ The dataset used in this project is sourced from Beer Advocate, a blog site wher
 - Reviews of approximately 6,000 distinct breweries.
 - Features such as aroma, appearance, palate, taste, and overall impressions, rated on a scale of 0 to 5.
 
+You can access the dataset [here](https://www.kaggle.com/datasets/thedevastator/1-5-million-beer-reviews-from-beer-advocate/data).
+
 **Explanation**: This section provides an overview of the dataset, including its source and key features. It highlights the scale and scope of the data being analyzed.
 
 ## Questions of Interest
